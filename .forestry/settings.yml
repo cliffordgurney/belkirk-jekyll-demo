@@ -17,6 +17,8 @@ sections:
   templates:
   - landing-page
   - page
+- type: heading
+  label: Sidebar Heading
 - type: directory
   path: _people
   label: People
